@@ -38,7 +38,7 @@ Skills:
 
 ### 📬 Связаться со мной
 - [Telegram](https://t.me/SuperMBA)
-- [GitHub](SuperMBA)
+- [GitHub](https://github.com/SuperMBA)
 - [Kaggle] ()
 
 ---
@@ -81,5 +81,5 @@ Skills:
 
 ### 📬 Contact Me
 - [Telegram](https://t.me/SuperMBA)
-- [GitHub](SuperMBA)
+- [GitHub](https://github.com/SuperMBA)
 - [Kaggle] ()
