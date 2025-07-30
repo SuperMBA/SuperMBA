@@ -37,7 +37,7 @@ Skills:
 - Хочу работать на стыке медицины и технологий
 
 ### 📬 Связаться со мной
-- [Telegram](@SuperMBA)
+- [Telegram](https://t.me/SuperMBA)
 - [GitHub](SuperMBA)
 - [Kaggle] ()
 
@@ -80,6 +80,6 @@ Skills:
 - Interested in building solutions at the intersection of medicine and technology
 
 ### 📬 Contact Me
-- [Telegram](@SuperMBA)
+- [Telegram](https://t.me/SuperMBA)
 - [GitHub](SuperMBA)
 - [Kaggle] ()
