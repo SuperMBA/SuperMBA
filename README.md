@@ -41,12 +41,14 @@ Python, SQL, pandas, NumPy, scikit-learn, matplotlib, Jupyter, Git, Docker, Fast
 
 ## Selected Repositories
 
-* [`nir-ftir`](https://github.com/SuperMBA/nir-ftir) — biomedical spectra classification, augmentation, PCA geometry and synthetic-data QC
-* `ml-deployment` — FastAPI ML service with Docker, Blue/Green deployment, Nginx and GitHub Actions
-* `ml_retrain_pipeline` — Airflow DAG for conditional ML retraining and deployment
-* `hw4-grafana-alerting` — ML service observability with Prometheus, Grafana and SLO-based alerting
-* `customer-segmentation-sql` — SQL-based customer segmentation and transaction analytics
-* `ml_grpc_service` — containerized gRPC service for ML model inference with health check, prediction endpoint, Python client and protobuf contract
+## Selected Repositories
+
+- [`nir-ftir`](https://github.com/SuperMBA/nir-ftir) — biomedical spectra classification, train-only augmentation, PCA geometry and synthetic-data QC
+- [`ml-deployment`](https://github.com/SuperMBA/ml-deployment) — FastAPI ML service with Docker, Blue/Green deployment, Nginx and GitHub Actions
+- [`ml_retrain_pipeline`](https://github.com/SuperMBA/ml_retrain_pipeline) — Airflow DAG for conditional ML retraining, metric-based branching and deployment notification
+- [`hw4-grafana-alerting`](https://github.com/SuperMBA/hw4-grafana-alerting) — ML service observability with Prometheus, Grafana and SLO-based alerting
+- [`ml_grpc_service`](https://github.com/SuperMBA/ml_grpc_service) — containerized gRPC service for ML model inference with health check, prediction endpoint and protobuf contract
+- [`customer-segmentation-sql`](https://github.com/SuperMBA/customer-segmentation-sql) — SQL-based customer segmentation and transaction analytics
 
 ## Professional Direction
 
