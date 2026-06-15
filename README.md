@@ -29,7 +29,7 @@ The project covers:
 * synthetic data quality control
 * summary reports and figure-ready outputs
 
-Repository: `nir-ftir`
+Repository: [`nir-ftir`](https://github.com/SuperMBA/nir-ftir)
 
 ## Medical AI Experience
 
@@ -41,12 +41,12 @@ Python, SQL, pandas, NumPy, scikit-learn, matplotlib, Jupyter, Git, Docker, Fast
 
 ## Selected Repositories
 
-* `nir-ftir` — biomedical spectra classification, augmentation, PCA geometry and synthetic-data QC
+* [`nir-ftir`](https://github.com/SuperMBA/nir-ftir) — biomedical spectra classification, augmentation, PCA geometry and synthetic-data QC
 * `ml-deployment` — FastAPI ML service with Docker, Blue/Green deployment, Nginx and GitHub Actions
 * `ml_retrain_pipeline` — Airflow DAG for conditional ML retraining and deployment
 * `hw4-grafana-alerting` — ML service observability with Prometheus, Grafana and SLO-based alerting
 * `customer-segmentation-sql` — SQL-based customer segmentation and transaction analytics
-* `ML-Pipeline` — tabular multiclass classification pipeline with model comparison
+* `ml_grpc_service` — containerized gRPC service for ML model inference with health check, prediction endpoint, Python client and protobuf contract
 
 ## Professional Direction
 
@@ -55,7 +55,8 @@ I am interested in roles at the intersection of data science, clinical expertise
 * Healthcare Data Analyst
 * Clinical Data Analyst
 * Medical Data Analyst
-* Junior Data Scientist in Healthcare / MedTech
+* Data Scientist in Healthcare / MedTech
 * AI Data Quality Specialist
 * Medical AI / Dental AI Specialist
+  Based in Germany. Open to roles in Healthcare Analytics, Clinical Data, Medical AI and MedTech.
 
